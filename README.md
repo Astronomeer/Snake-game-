@@ -6,6 +6,6 @@ I am attaching a photo from the game to the code.
 
 
 
-F - Fruit
-0 - head of Snake
-o - tail of Snake
+F - Fruit;
+0 - head of Snake;
+o - tail of Snake;
