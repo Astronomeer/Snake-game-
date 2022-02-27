@@ -5,6 +5,7 @@ I am attaching a photo from the game to the code.
 
 
 ![image](https://user-images.githubusercontent.com/99504850/155891928-7b1f5cce-4180-4aaf-9442-f928e19f968a.png)
+
 F - Fruit.
 0 - head of Snake.
 o - tail of Snake.
